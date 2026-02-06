@@ -29,11 +29,12 @@ We built a multi-agent system where each AI has a specific role: parsing resumes
 ## What's next for MockChain  
 - Voice/video interview mode  
 - Company-specific prep
+- Progress tracking and gamification  
+- Peer review and community features  
 
-Team Members
+### Team Members
 - Harsh Gupta
 - Pranay Bandaru
 - Rakshit Rao
 
-- Progress tracking and gamification  
-- Peer review and community features  
+
