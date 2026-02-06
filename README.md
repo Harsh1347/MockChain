@@ -1,5 +1,7 @@
 # MockChain
-Get grilled by bots, hired by humans
+![https://github.com/Harsh1347/MockChain/blob/main/assets/MockChain_Thumbnail.png](https://github.com/Harsh1347/MockChain/blob/main/assets/MockChain_Thumbnail.png)
+
+
 Team Members
 - Harsh Gupta
 - Pranay Bandaru
