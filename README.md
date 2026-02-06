@@ -2,12 +2,6 @@
 ![https://github.com/Harsh1347/MockChain/blob/main/assets/MockChain_Thumbnail.png](https://github.com/Harsh1347/MockChain/blob/main/assets/MockChain_Thumbnail.png)
 
 
-Team Members
-- Harsh Gupta
-- Pranay Bandaru
-- Rakshit Rao
-
-
 ## Inspiration  
 Landing a job is tough—interviews are high-pressure, and you often only get one shot. We wanted to create a space where people can practice, fail safely, and get better before the real thing. That’s how **MockChain** was born: an AI-powered mock interview platform that helps you prep with confidence.
 
@@ -34,6 +28,12 @@ We built a multi-agent system where each AI has a specific role: parsing resumes
 
 ## What's next for MockChain  
 - Voice/video interview mode  
-- Company-specific prep  
+- Company-specific prep
+
+Team Members
+- Harsh Gupta
+- Pranay Bandaru
+- Rakshit Rao
+
 - Progress tracking and gamification  
 - Peer review and community features  
